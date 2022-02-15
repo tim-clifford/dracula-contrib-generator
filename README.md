@@ -1,3 +1,9 @@
+
+
+| :exclamation:  | This is a mirror of [https://git.sr.ht/~tim-clifford/dracula-contrib-generator](https://git.sr.ht/~tim-clifford/dracula-contrib-generator). Please refrain from using GitHub's issue and PR system.  |
+|----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 # Dracula Contribution Generator
 
 Saves me a bunch of time and hopefully lowers the barrier to entry for
